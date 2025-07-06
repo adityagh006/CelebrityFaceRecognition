@@ -19,8 +19,6 @@ CelebrityFaceRecognition/
 ├── UI/ # Frontend website (HTML/CSS/JS)
 ├── server/ # Python Flask server
 ├── model/ # Model building notebook
-├── google_image_scrapping/ # Scripts to scrape images from Google
-└── images_dataset/ # Dataset used for model training
 ```
 ---
 
