@@ -1,8 +1,8 @@
-# 🎯 Celebrity Face Recognition - Sports Edition
+# Celebrity Face Recognition - Sports Edition
 
 This is a real-time **facial recognition system** built using **OpenCV**, **Flask**, and **Machine Learning**, specifically focused on classifying **five prominent sports personalities**.
 
-## 🏅 Recognized Celebrities
+## Recognized Celebrities
 
 - Maria Sharapova 🎾  
 - Serena Williams 🎾  
@@ -13,7 +13,7 @@ This is a real-time **facial recognition system** built using **OpenCV**, **Flas
 ---
 
 ## 🗂️ Project Structure
-
+```
 CelebrityFaceRecognition/
 │
 ├── UI/ # Frontend website (HTML/CSS/JS)
@@ -21,7 +21,7 @@ CelebrityFaceRecognition/
 ├── model/ # Model building notebook
 ├── google_image_scrapping/ # Scripts to scrape images from Google
 └── images_dataset/ # Dataset used for model training
-
+```
 ---
 
 ## 🚀 Technologies Used
