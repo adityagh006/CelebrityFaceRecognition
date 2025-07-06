@@ -18,7 +18,7 @@ CelebrityFaceRecognition/
 │
 ├── UI/ # Frontend website (HTML/CSS/JS)
 ├── server/ # Python Flask server
-├── model/ # Model building notebook
+└── model/ # Model building notebook
 ```
 ---
 
